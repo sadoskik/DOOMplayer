@@ -1,5 +1,5 @@
 cap = 10**(-7)
-R_a = 1000
+R_a = 400
 print("Previous R_b")
 prevR_b = float(input())
 print("Target frequency")
