@@ -10,7 +10,7 @@ The number of note generating 555 timers is determined by how many "channels" ar
 ##
 
 ## State Machine
-The state machine will only capture the initial riff which is repeat four times in the original song anyways. 
+The state machine will only capture the initial riff which is repeated four times in the original song anyways. 
 ##
 
 ## Tempo
